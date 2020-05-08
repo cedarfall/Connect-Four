@@ -1,5 +1,3 @@
-<h1 align="center">Connect Four</h1>
-
 ![Tic Tac Toe Board](/images/board.png)
 
 ### Overview
